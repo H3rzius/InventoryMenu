@@ -23,4 +23,4 @@ API Javadoc for developers: https://ci.codemc.io/job/filoghost/job/ChestCommands
 ```
 
 ## License
-Chest Commands is free software/open source, and is distributed under the [GPL 3.0 License](https://opensource.org/licenses/GPL-3.0). It contains third-party code, see the included THIRD-PARTY.txt file for the license information on third-party code.
+Chest Commands is free software/open source, and is distributed under the [MIT License](https://opensource.org/licenses/MIT). It contains third-party code, see the included THIRD-PARTY.txt file for the license information on third-party code.
